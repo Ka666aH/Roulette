@@ -1,0 +1,12 @@
+C:\Users\dmitr\source\repos\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\dmitr\source\repos\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\dmitr\source\repos\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.Properties.Resources.resources
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.pdb
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.Form1.resources
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.Form2.resources
+C:\Users\dmitr\source\repos\Roulette\Roulette\obj\Debug\Roulette.Form3.resources
